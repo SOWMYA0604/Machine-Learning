@@ -5,4 +5,3 @@ Conducted thorough preprocessing of the input data, including cleaning, normaliz
 Evaluated the model's predictive capabilities using various metrics, ensuring robustness and reliability in the predictions.
 Employed data visualization techniques to effectively present the model's outputs and provide insights to team members and stakeholders.
 Developed a user-friendly frontend interface using Gradio and Tkinter, allowing easy navigation and interaction with the model for users.
-C:\Users\User\Downloads\ml submission.png
