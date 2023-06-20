@@ -1,4 +1,4 @@
-# Machine-Learning
+# Air Pollution
 Collaborated in a team to develop an innovative machine learning solution for predicting air pollution levels.
 Designed and implemented a machine learning model utilizing techniques such as Random Forest Regression, Linear Regression to accurately forecast air pollution levels based on relevant data inputs.
 Conducted thorough preprocessing of the input data, including cleaning, normalization, and feature engineering, to enhance the model's performance and minimize potential biases.
